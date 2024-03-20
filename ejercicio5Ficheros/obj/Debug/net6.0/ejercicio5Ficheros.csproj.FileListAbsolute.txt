@@ -1,0 +1,14 @@
+C:\Users\csi23-dmunnco\source\repos\ejercicio5Ficheros\bin\Debug\net6.0\ejercicio5Ficheros.exe
+C:\Users\csi23-dmunnco\source\repos\ejercicio5Ficheros\bin\Debug\net6.0\ejercicio5Ficheros.deps.json
+C:\Users\csi23-dmunnco\source\repos\ejercicio5Ficheros\bin\Debug\net6.0\ejercicio5Ficheros.runtimeconfig.json
+C:\Users\csi23-dmunnco\source\repos\ejercicio5Ficheros\bin\Debug\net6.0\ejercicio5Ficheros.dll
+C:\Users\csi23-dmunnco\source\repos\ejercicio5Ficheros\bin\Debug\net6.0\ejercicio5Ficheros.pdb
+C:\Users\csi23-dmunnco\source\repos\ejercicio5Ficheros\obj\Debug\net6.0\ejercicio5Ficheros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-dmunnco\source\repos\ejercicio5Ficheros\obj\Debug\net6.0\ejercicio5Ficheros.AssemblyInfoInputs.cache
+C:\Users\csi23-dmunnco\source\repos\ejercicio5Ficheros\obj\Debug\net6.0\ejercicio5Ficheros.AssemblyInfo.cs
+C:\Users\csi23-dmunnco\source\repos\ejercicio5Ficheros\obj\Debug\net6.0\ejercicio5Ficheros.csproj.CoreCompileInputs.cache
+C:\Users\csi23-dmunnco\source\repos\ejercicio5Ficheros\obj\Debug\net6.0\ejercicio5Ficheros.dll
+C:\Users\csi23-dmunnco\source\repos\ejercicio5Ficheros\obj\Debug\net6.0\refint\ejercicio5Ficheros.dll
+C:\Users\csi23-dmunnco\source\repos\ejercicio5Ficheros\obj\Debug\net6.0\ejercicio5Ficheros.pdb
+C:\Users\csi23-dmunnco\source\repos\ejercicio5Ficheros\obj\Debug\net6.0\ejercicio5Ficheros.genruntimeconfig.cache
+C:\Users\csi23-dmunnco\source\repos\ejercicio5Ficheros\obj\Debug\net6.0\ref\ejercicio5Ficheros.dll
